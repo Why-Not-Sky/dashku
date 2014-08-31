@@ -1,0 +1,20 @@
+{
+  "name": "Dashku Open Source Edition",
+  "description": "Realtime Dashboards and Widgets, using HTML, CSS, and JavaScript",
+  "keywords": [
+    "dashboard",
+    "realtime",
+    "socketstream",
+    "node",
+    "mongodb",
+    "redis"
+  ],
+  "website": "https://github.com/Anephenix/dashku",
+  "repository": "https://github.com/Anephenix/dashku",
+  "logo": "https://pbs.twimg.com/profile_images/2227367569/twitter_icon_400x400.png",
+  "success_url": "/",
+  "addons": [
+    "rediscloud",
+    "mongolab"
+  ]
+}
